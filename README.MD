@@ -25,8 +25,8 @@ Este es un sistema de control de asistencias de empleados que permite registrar 
 
 ## Instalación
 
-1. Clona este repositorio: `git clone https://github.com/tu_usuario/sistema-control-asistencias.git`
-2. Ve al directorio del proyecto: `cd sistema-control-asistencias`
+1. Clona este repositorio: `git clone https://github.com/gfrancojf/SIGAEP.git`
+2. Ve al directorio del proyecto: `cd SIGAEP`
 3. Crea y activa un entorno virtual (opcional): `python3 -m venv env` y `source env/bin/activate`
 4. Instala las dependencias: `pip install -r requirements.txt`
 5. Configura la base de datos en el archivo `settings.py`
